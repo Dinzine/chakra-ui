@@ -1,5 +1,14 @@
 # Change Log
 
+## 1.5.5
+
+### Patch Changes
+
+- [#5504](https://github.com/chakra-ui/chakra-ui/pull/5504)
+  [`f149c6c9a`](https://github.com/chakra-ui/chakra-ui/commit/f149c6c9aa04b8c0abebaa6ac8dc72c7f8ceed35)
+  Thanks [@Andarist](https://github.com/Andarist)! - Remove redundant `useMemo`
+  from `FormControl`
+
 ## 1.5.4
 
 ### Patch Changes
